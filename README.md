@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1> Thomas Raoult <br/><a<a href="https://www.linkedin.com/in/thomas-raoult-a77a26135/">Data Engineer</a><br/><a>SQL Developer (5 years)</a> </h1>
 
-<!--
-**TomWirk/TomWirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Engineering Projects </h2>
 
-Here are some ideas to get you started:
+- <b>NBA Data Pipeline</b>
+  - [Practicing ETL in Scala & Spark](https://github.com/TomWirk/nba-data-pipeline)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Ecobalyse</b>
+  - [Team project with Python, Airflow, Docker ](https://github.com/TomWirk/ecobalyse)
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/thomas-raoult-a77a26135/
